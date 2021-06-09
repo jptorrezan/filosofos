@@ -5,7 +5,7 @@
 ### Como executar
 
 Para exucação basta compilar o arquivo com a biblioteca lpthread, o comando é o seguinte:
-$ gcc -o filosofos filosofos.c -lpthread
+>$ gcc -o filosofos filosofos.c -lpthread
 E em seguida, executá-lo com:
-$ ./filosofos
+>$ ./filosofos
 
